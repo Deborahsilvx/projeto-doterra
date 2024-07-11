@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lavender; /* Cor de fundo lilás */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: mediumorchid; /* Cor de fundo do cabeçalho */
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: mediumorchid; /* Cor de fundo do botão */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: darkorchid; /* Cor de fundo do botão ao passar o mouse */
+    align-items: center;
+}
